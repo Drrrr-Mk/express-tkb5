@@ -1,0 +1,13 @@
+{
+  "name": "express-tkb5",
+  "version": "1.0.0",
+  "description": "好评生成助手 - 云托管后端服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "wx-server-sdk": "~2.6.3"
+  }
+}
